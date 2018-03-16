@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/cc.kave.commons-0.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/guava-r05.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/cc.kave.rsse.calls-0.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/gson-javatime-serialisers-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/TP/Documents/Waterloo/Term 2/CS846/Project/commons-lang3-3.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
