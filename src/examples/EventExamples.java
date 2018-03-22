@@ -25,7 +25,7 @@ public class EventExamples {
 	 * dataset from our website, please unzip the archive and point to the
 	 * containing folder here.
 	 */
-	private static final String DIR_USERDATA = "/Users/seb/Downloads/All-Clean/";
+	private static final String DIR_USERDATA = "DataNew";
 
 	/**
 	 * 1: Find all users in the dataset.

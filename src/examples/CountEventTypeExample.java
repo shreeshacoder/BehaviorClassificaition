@@ -48,7 +48,7 @@ public class CountEventTypeExample {
 					numEvents++;
 					IIDEEvent e = ra.getNext(IIDEEvent.class);
 					String key = e.getClass().getSimpleName();
-					System.out.println("Sdfsd");
+					//System.out.println("Sdfsd");
 					Integer count = counts.get(key);
 					if (count == null) {
 						counts.put(key, 1);

@@ -1,5 +1,8 @@
 
 import examples.CountEventTypeExample;
+import examples.CountTestType;
+import examples.EventExamples;
+import examples.GettingStarted;
 import examples.rsse.calls.BMNMining;
 
 public class RunMe {
@@ -10,7 +13,7 @@ public class RunMe {
 	 * includes a bunch of folders that have dates as names and that contain .zip
 	 * files.
 	 */
-	public static String eventsDir = "Data";
+	public static String eventsDir = "DataNew";
 
 	/*
 	 * download the context data and follow the same instructions as before.
@@ -19,10 +22,13 @@ public class RunMe {
 
 	public static void main(String[] args) {
 
+		//new EventExamples();
 		// BASIC DATA READING
-		
+		//System.out.println(EventExamples.findAllUsers());
+		//new GettingStarted(eventsDir).run();
 		// new GettingStarted(eventsDir).run();
-		new CountEventTypeExample(eventsDir).run();
+		//new CountTestType(eventsDir).run();
+		new CountTestType(eventsDir).run();
 		// new GettingStartedContexts(contextsDir).run();
 		
 		// RSSE RELATED EXAMPLES
